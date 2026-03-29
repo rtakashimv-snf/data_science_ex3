@@ -1,0 +1,24 @@
+{
+  "nome_dataset": "Atletas por Gênero – Paris 2024",
+  "arquivo": "atletas_por_sexo.csv",
+  "camada": "bronze",
+  "fontes_origem": ["raw/olympics_paris2024.csv"],
+  "descricao": "Distribuição de medalhas e atletas por gênero e disciplina nos Jogos de Paris 2024.",
+  "campos_principais": [
+    {"campo": "gender", "tipo": "string", "descricao": "Código do gênero (M ou F)"},
+    {"campo": "discipline", "tipo": "string", "descricao": "Disciplina esportiva"},
+    {"campo": "total_medalhas", "tipo": "integer", "descricao": "Total de medalhas por gênero/disciplina"},
+    {"campo": "total_atletas", "tipo": "integer", "descricao": "Total de atletas únicos"},
+    {"campo": "ouro", "tipo": "integer", "descricao": "Medalhas de ouro"},
+    {"campo": "prata", "tipo": "integer", "descricao": "Medalhas de prata"},
+    {"campo": "bronze", "tipo": "integer", "descricao": "Medalhas de bronze"},
+    {"campo": "gender_label", "tipo": "string", "descricao": "Rótulo legível: Masculino ou Feminino"}
+  ],
+  "data_processamento": "2025-01-01",
+  "total_registros": 98,
+  "transformacoes": [
+    "GroupBy por gender e discipline",
+    "Contagem de medalhas por tipo",
+    "Adição de rótulo legível para gênero"
+  ]
+}

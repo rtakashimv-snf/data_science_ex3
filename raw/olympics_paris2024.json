@@ -1,0 +1,30 @@
+{
+  "nome_dataset": "Medalhas Paris 2024 por Atleta",
+  "arquivo": "olympics_paris2024.csv",
+  "fonte": "Kaggle - france2024_medals_by_athlete",
+  "descricao": "Medalhas conquistadas nos Jogos Olímpicos de Paris 2024, com detalhes por atleta, país, disciplina, evento e data.",
+  "campos_principais": [
+    {"campo": "medal_type", "tipo": "string", "descricao": "Tipo de medalha por extenso (Gold Medal, Silver Medal, Bronze Medal)"},
+    {"campo": "medal_code", "tipo": "integer", "descricao": "Código numérico da medalha (1=Ouro, 2=Prata, 3=Bronze)"},
+    {"campo": "medal_date", "tipo": "date", "descricao": "Data em que a medalha foi conquistada (YYYY-MM-DD)"},
+    {"campo": "name", "tipo": "string", "descricao": "Nome completo do atleta em maiúsculas"},
+    {"campo": "gender", "tipo": "string", "descricao": "Gênero do atleta (M=Masculino, F=Feminino)"},
+    {"campo": "discipline", "tipo": "string", "descricao": "Disciplina esportiva"},
+    {"campo": "event", "tipo": "string", "descricao": "Descrição do evento específico"},
+    {"campo": "event_type", "tipo": "string", "descricao": "Tipo de evento (ATH=Atleta individual, TEAM=Coletivo)"},
+    {"campo": "url_event", "tipo": "string", "descricao": "URL relativa da página do evento no site oficial Paris 2024"},
+    {"campo": "code", "tipo": "integer", "descricao": "Código identificador do atleta"},
+    {"campo": "country_code", "tipo": "string", "descricao": "Código IOC do país (3 letras)"},
+    {"campo": "country", "tipo": "string", "descricao": "Nome abreviado do país"},
+    {"campo": "country_long", "tipo": "string", "descricao": "Nome completo do país"}
+  ],
+  "data_coleta": "2024-08-12",
+  "periodo_coberto": "2024-07-27 a 2024-08-11",
+  "total_registros": 1044,
+  "total_colunas": 13,
+  "observacoes": [
+    "Arquivo original em formato CSV",
+    "Cada linha representa uma medalha por atleta (atletas de esportes coletivos podem ter entradas múltiplas)",
+    "O campo 'name' segue o padrão SOBRENOME Nome"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "schema_versao": "1.0",
+  "descricao": "Schema técnico de metadados do Data Lake Olympics. Define a estrutura esperada para todos os arquivos de metadados JSON presentes nas camadas raw, bronze e gold.",
+  "camadas": {
+    "raw": {
+      "descricao": "Dados brutos sem transformação, exatamente como coletados na fonte.",
+      "campos_obrigatorios_metadata": ["nome_dataset", "arquivo", "fonte", "descricao", "campos_principais", "data_coleta", "total_registros", "total_colunas"]
+    },
+    "bronze": {
+      "descricao": "Dados limpos, integrados e convertidos. Resultado de JOINs e normalizações sobre os dados raw.",
+      "campos_obrigatorios_metadata": ["nome_dataset", "arquivo", "camada", "fontes_origem", "descricao", "campos_principais", "data_processamento", "total_registros", "transformacoes"]
+    },
+    "gold": {
+      "descricao": "Dados analíticos prontos para consumo: relatórios, visualizações, dashboards e insights.",
+      "campos_obrigatorios_metadata": ["nome_dataset", "camada", "descricao", "fontes_origem", "arquivos_gerados", "data_processamento", "insights_principais"]
+    }
+  },
+  "schema_campo": {
+    "campo": "string — nome da coluna no dataset",
+    "tipo": "string — tipo de dado (string, integer, float, boolean, date)",
+    "descricao": "string — explicação semântica do campo"
+  },
+  "convencoes": {
+    "encoding": "UTF-8",
+    "separador_csv": ",",
+    "formato_data": "YYYY-MM-DD",
+    "formato_parquet": "Apache Parquet com compressão snappy (quando disponível)",
+    "idioma_metadados": "Português (Brasil)"
+  }
+}

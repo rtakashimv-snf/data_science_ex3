@@ -1,0 +1,1139 @@
+year,edition,sport,total_events,total_athletes,total_medals
+1896,1896 Summer Olympics,Artistic Gymnastics,8,28,41
+1896,1896 Summer Olympics,Athletics,12,93,37
+1896,1896 Summer Olympics,Cycling Road,1,23,3
+1896,1896 Summer Olympics,Cycling Track,5,16,13
+1896,1896 Summer Olympics,Fencing,3,22,9
+1896,1896 Summer Olympics,Shooting,5,38,15
+1896,1896 Summer Olympics,Swimming,4,54,10
+1896,1896 Summer Olympics,Tennis,2,16,14
+1896,1896 Summer Olympics,Weightlifting,2,7,6
+1896,1896 Summer Olympics,Wrestling,1,5,3
+1900,1900 Summer Olympics,Archery,12,30,20
+1900,1900 Summer Olympics,Artistic Gymnastics,14,166,3
+1900,1900 Summer Olympics,Athletics,53,276,76
+1900,1900 Summer Olympics,Automobile Racing,2,26,0
+1900,1900 Summer Olympics,Ballooning,26,64,0
+1900,1900 Summer Olympics,Basque pelota,2,10,2
+1900,1900 Summer Olympics,Boules,2,12,0
+1900,1900 Summer Olympics,Cricket,1,34,34
+1900,1900 Summer Olympics,Croquet,4,10,8
+1900,1900 Summer Olympics,Cycling Track,14,194,9
+1900,1900 Summer Olympics,Equestrian Dressage,1,25,3
+1900,1900 Summer Olympics,Equestrian Driving,1,29,3
+1900,1900 Summer Olympics,Equestrian Jumping,3,29,9
+1900,1900 Summer Olympics,Fencing,7,258,21
+1900,1900 Summer Olympics,Firefighting,3,65,0
+1900,1900 Summer Olympics,Fishing,1,12,0
+1900,1900 Summer Olympics,Football,1,35,35
+1900,1900 Summer Olympics,Golf,4,39,6
+1900,1900 Summer Olympics,Lifesaving,6,10,0
+1900,1900 Summer Olympics,Longue Paume,2,9,0
+1900,1900 Summer Olympics,Military Exercise,9,113,0
+1900,1900 Summer Olympics,Motorboating,8,21,0
+1900,1900 Summer Olympics,Motorcycle Sports,1,23,0
+1900,1900 Summer Olympics,Polo,1,34,21
+1900,1900 Summer Olympics,Rowing,12,217,68
+1900,1900 Summer Olympics,Rugby,1,47,47
+1900,1900 Summer Olympics,Sailing,8,97,105
+1900,1900 Summer Olympics,Shooting,8,72,49
+1900,1900 Summer Olympics,Swimming,7,138,33
+1900,1900 Summer Olympics,Tennis,10,69,32
+1900,1900 Summer Olympics,Tug-Of-War,1,12,18
+1900,1900 Summer Olympics,Water Polo,1,53,32
+1904,1904 Summer Olympics,American Football,1,173,0
+1904,1904 Summer Olympics,Archery,8,29,28
+1904,1904 Summer Olympics,Artistic Gymnastics,12,134,51
+1904,1904 Summer Olympics,Athletics,71,480,79
+1904,1904 Summer Olympics,Basketball,1,40,0
+1904,1904 Summer Olympics,Boxing,7,23,18
+1904,1904 Summer Olympics,Cycling Track,20,36,21
+1904,1904 Summer Olympics,Diving,1,5,3
+1904,1904 Summer Olympics,Fencing,6,11,21
+1904,1904 Summer Olympics,Football,1,37,37
+1904,1904 Summer Olympics,Golf,4,109,34
+1904,1904 Summer Olympics,Lacrosse,1,36,36
+1904,1904 Summer Olympics,Roque,1,4,3
+1904,1904 Summer Olympics,Rowing,11,96,55
+1904,1904 Summer Olympics,Swimming,15,46,39
+1904,1904 Summer Olympics,Tennis,3,54,12
+1904,1904 Summer Olympics,Tug-Of-War,1,30,15
+1904,1904 Summer Olympics,Water Polo,1,21,21
+1904,1904 Summer Olympics,Weightlifting,2,5,6
+1904,1904 Summer Olympics,Wrestling,7,42,21
+1906,1906  Intercalated Games,Athletics,12,8,0
+1906,1906  Intercalated Games,Shooting,1,1,0
+1908,1908 Summer Olympics,Archery,3,57,9
+1908,1908 Summer Olympics,Artistic Gymnastics,2,326,97
+1908,1908 Summer Olympics,Athletics,26,602,101
+1908,1908 Summer Olympics,Bicycle Polo,1,9,0
+1908,1908 Summer Olympics,Boxing,5,58,15
+1908,1908 Summer Olympics,Cycling Track,6,97,30
+1908,1908 Summer Olympics,Diving,2,39,7
+1908,1908 Summer Olympics,Fencing,5,155,41
+1908,1908 Summer Olympics,Figure Skating,4,23,15
+1908,1908 Summer Olympics,Football,1,134,80
+1908,1908 Summer Olympics,Glíma,1,5,0
+1908,1908 Summer Olympics,Hockey,1,82,47
+1908,1908 Summer Olympics,Jeu De Paume,1,11,3
+1908,1908 Summer Olympics,Lacrosse,1,27,27
+1908,1908 Summer Olympics,Motorboating,3,14,7
+1908,1908 Summer Olympics,Polo,1,12,12
+1908,1908 Summer Olympics,Racquets,2,10,10
+1908,1908 Summer Olympics,Rowing,4,99,85
+1908,1908 Summer Olympics,Rugby,1,48,48
+1908,1908 Summer Olympics,Sailing,4,64,48
+1908,1908 Summer Olympics,Shooting,15,221,117
+1908,1908 Summer Olympics,Swimming,6,135,27
+1908,1908 Summer Olympics,Tennis,6,69,24
+1908,1908 Summer Olympics,Tug-Of-War,1,40,24
+1908,1908 Summer Olympics,Water Polo,1,28,21
+1908,1908 Summer Olympics,Wrestling,9,115,27
+1912,1912 Summer Olympics,Art Competitions,5,33,6
+1912,1912 Summer Olympics,Artistic Gymnastics,4,259,208
+1912,1912 Summer Olympics,Athletics,30,785,143
+1912,1912 Summer Olympics,Baseball,1,32,0
+1912,1912 Summer Olympics,Cycling Road,2,123,36
+1912,1912 Summer Olympics,Diving,4,57,12
+1912,1912 Summer Olympics,Equestrian Dressage,1,21,3
+1912,1912 Summer Olympics,Equestrian Eventing,2,27,15
+1912,1912 Summer Olympics,Equestrian Jumping,2,40,15
+1912,1912 Summer Olympics,Fencing,5,218,57
+1912,1912 Summer Olympics,Football,1,247,73
+1912,1912 Summer Olympics,Glíma,1,6,0
+1912,1912 Summer Olympics,Modern Pentathlon,1,32,3
+1912,1912 Summer Olympics,Rowing,4,190,66
+1912,1912 Summer Olympics,Sailing,4,109,73
+1912,1912 Summer Olympics,Shooting,18,284,144
+1912,1912 Summer Olympics,Swimming,9,187,45
+1912,1912 Summer Olympics,Tennis,8,105,36
+1912,1912 Summer Olympics,Tug-Of-War,1,16,16
+1912,1912 Summer Olympics,Water Polo,1,45,23
+1912,1912 Summer Olympics,Wrestling,5,170,15
+1920,1920 Summer Olympics,Archery,10,30,80
+1920,1920 Summer Olympics,Art Competitions,5,11,11
+1920,1920 Summer Olympics,Artistic Gymnastics,4,250,199
+1920,1920 Summer Olympics,Athletics,29,552,136
+1920,1920 Summer Olympics,Boxing,8,118,24
+1920,1920 Summer Olympics,Cycling Road,2,46,15
+1920,1920 Summer Olympics,Cycling Track,4,66,24
+1920,1920 Summer Olympics,Diving,5,53,15
+1920,1920 Summer Olympics,Equestrian Dressage,1,17,3
+1920,1920 Summer Olympics,Equestrian Eventing,2,25,15
+1920,1920 Summer Olympics,Equestrian Jumping,2,45,15
+1920,1920 Summer Olympics,Equestrian Vaulting,2,17,12
+1920,1920 Summer Olympics,Fencing,6,150,72
+1920,1920 Summer Olympics,Figure Skating,3,26,12
+1920,1920 Summer Olympics,Football,1,279,66
+1920,1920 Summer Olympics,Hockey,1,55,44
+1920,1920 Summer Olympics,Ice Hockey,1,67,28
+1920,1920 Summer Olympics,Korfball,1,24,0
+1920,1920 Summer Olympics,Modern Pentathlon,1,23,3
+1920,1920 Summer Olympics,Polo,1,17,13
+1920,1920 Summer Olympics,Rowing,5,138,60
+1920,1920 Summer Olympics,Rugby,1,40,40
+1920,1920 Summer Olympics,Sailing,10,101,96
+1920,1920 Summer Olympics,Shooting,22,237,198
+1920,1920 Summer Olympics,Swimming,10,116,49
+1920,1920 Summer Olympics,Tennis,5,84,24
+1920,1920 Summer Olympics,Tug-Of-War,1,41,25
+1920,1920 Summer Olympics,Water Polo,2,115,25
+1920,1920 Summer Olympics,Weightlifting,5,53,15
+1920,1920 Summer Olympics,Wrestling,10,152,31
+1924,1924 Summer Olympics,Art Competitions,5,183,14
+1924,1924 Summer Olympics,Artistic Gymnastics,9,72,49
+1924,1924 Summer Olympics,Athletics,27,843,149
+1924,1924 Summer Olympics,Basque pelota,4,20,0
+1924,1924 Summer Olympics,Boxing,8,257,24
+1924,1924 Summer Olympics,Canne De Combat,1,2,0
+1924,1924 Summer Olympics,Canoe Sprint,6,8,0
+1924,1924 Summer Olympics,Cycling Road,2,71,15
+1924,1924 Summer Olympics,Cycling Track,4,80,24
+1924,1924 Summer Olympics,Diving,5,71,15
+1924,1924 Summer Olympics,Equestrian Dressage,1,24,3
+1924,1924 Summer Olympics,Equestrian Eventing,2,44,15
+1924,1924 Summer Olympics,Equestrian Jumping,2,43,15
+1924,1924 Summer Olympics,Fencing,7,303,81
+1924,1924 Summer Olympics,Football,1,473,66
+1924,1924 Summer Olympics,Modern Pentathlon,1,38,3
+1924,1924 Summer Olympics,Polo,1,25,14
+1924,1924 Summer Olympics,Rowing,7,258,86
+1924,1924 Summer Olympics,Rugby,1,76,76
+1924,1924 Summer Olympics,Sailing,3,65,27
+1924,1924 Summer Olympics,Savate,1,20,0
+1924,1924 Summer Olympics,Shooting,10,258,75
+1924,1924 Summer Olympics,Swimming,11,183,56
+1924,1924 Summer Olympics,Tennis,5,139,24
+1924,1924 Summer Olympics,Water Polo,1,130,33
+1924,1924 Summer Olympics,Weightlifting,5,107,15
+1924,1924 Summer Olympics,Wrestling,13,229,39
+1924,1924 Winter Olympics,Alpinism,1,21,84
+1924,1924 Winter Olympics,Bobsleigh,1,39,13
+1924,1924 Winter Olympics,Cross Country Skiing,2,69,6
+1924,1924 Winter Olympics,Curling,1,31,23
+1924,1924 Winter Olympics,Figure Skating,3,35,12
+1924,1924 Winter Olympics,Ice Hockey,1,110,32
+1924,1924 Winter Olympics,Military Ski Patrol,1,24,12
+1924,1924 Winter Olympics,Nordic Combined,1,37,3
+1924,1924 Winter Olympics,Ski Jumping,1,40,3
+1924,1924 Winter Olympics,Speed Skating,5,34,16
+1928,1928 Summer Olympics,Art Competitions,16,410,29
+1928,1928 Summer Olympics,Artistic Gymnastics,8,144,76
+1928,1928 Summer Olympics,Athletics,27,877,138
+1928,1928 Summer Olympics,Boxing,8,178,24
+1928,1928 Summer Olympics,Cycling Road,2,75,15
+1928,1928 Summer Olympics,Cycling Track,4,81,25
+1928,1928 Summer Olympics,Diving,4,61,12
+1928,1928 Summer Olympics,Equestrian Dressage,2,29,12
+1928,1928 Summer Olympics,Equestrian Eventing,2,46,12
+1928,1928 Summer Olympics,Equestrian Jumping,2,46,12
+1928,1928 Summer Olympics,Fencing,7,259,65
+1928,1928 Summer Olympics,Football,1,351,66
+1928,1928 Summer Olympics,Hockey,1,173,59
+1928,1928 Summer Olympics,Kaatsen,1,6,0
+1928,1928 Summer Olympics,Korfball,1,24,0
+1928,1928 Summer Olympics,Lacrosse,1,43,0
+1928,1928 Summer Olympics,Modern Pentathlon,1,37,3
+1928,1928 Summer Olympics,Rowing,7,290,95
+1928,1928 Summer Olympics,Sailing,3,124,34
+1928,1928 Summer Olympics,Swimming,11,216,57
+1928,1928 Summer Olympics,Water Polo,1,140,31
+1928,1928 Summer Olympics,Weightlifting,5,95,15
+1928,1928 Summer Olympics,Wrestling,13,166,39
+1928,1928 Winter Olympics,Bobsleigh,1,126,15
+1928,1928 Winter Olympics,Cross Country Skiing,2,74,6
+1928,1928 Winter Olympics,Figure Skating,3,51,12
+1928,1928 Winter Olympics,Ice Hockey,1,131,37
+1928,1928 Winter Olympics,Military Ski Patrol,1,36,0
+1928,1928 Winter Olympics,Nordic Combined,1,35,3
+1928,1928 Winter Olympics,Skeleton,1,18,3
+1928,1928 Winter Olympics,Ski Jumping,1,38,3
+1928,1928 Winter Olympics,Skijoring,1,7,0
+1928,1928 Winter Olympics,Speed Skating,4,40,11
+1932,1932 Summer Olympics,Alpinism,1,2,2
+1932,1932 Summer Olympics,American Football,1,40,0
+1932,1932 Summer Olympics,Art Competitions,13,577,23
+1932,1932 Summer Olympics,Artistic Gymnastics,11,46,45
+1932,1932 Summer Olympics,Athletics,29,422,140
+1932,1932 Summer Olympics,Boxing,8,85,24
+1932,1932 Summer Olympics,Cycling Road,2,36,15
+1932,1932 Summer Olympics,Cycling Track,4,39,24
+1932,1932 Summer Olympics,Diving,4,28,12
+1932,1932 Summer Olympics,Equestrian Dressage,2,10,12
+1932,1932 Summer Olympics,Equestrian Eventing,2,14,9
+1932,1932 Summer Olympics,Equestrian Jumping,2,11,3
+1932,1932 Summer Olympics,Fencing,7,108,65
+1932,1932 Summer Olympics,Hockey,1,45,45
+1932,1932 Summer Olympics,Lacrosse,1,28,0
+1932,1932 Summer Olympics,Modern Pentathlon,1,25,3
+1932,1932 Summer Olympics,Rowing,7,171,92
+1932,1932 Summer Olympics,Sailing,4,54,40
+1932,1932 Summer Olympics,Shooting,2,41,6
+1932,1932 Summer Olympics,Swimming,11,136,51
+1932,1932 Summer Olympics,Water Polo,1,52,32
+1932,1932 Summer Olympics,Weightlifting,5,29,15
+1932,1932 Summer Olympics,Wrestling,14,79,42
+1932,1932 Winter Olympics,Bobsleigh,2,61,18
+1932,1932 Winter Olympics,Cross Country Skiing,2,71,6
+1932,1932 Winter Olympics,Curling,1,32,0
+1932,1932 Winter Olympics,Dogsled Racing,1,13,0
+1932,1932 Winter Olympics,Figure Skating,3,45,12
+1932,1932 Winter Olympics,Ice Hockey,2,77,38
+1932,1932 Winter Olympics,Nordic Combined,1,47,3
+1932,1932 Winter Olympics,Ski Jumping,1,47,3
+1932,1932 Winter Olympics,Speed Skating,7,42,12
+1936,1936 Summer Olympics,Aeronautics,1,1,1
+1936,1936 Summer Olympics,Alpinism,1,2,2
+1936,1936 Summer Olympics,Art Competitions,18,506,32
+1936,1936 Summer Olympics,Artistic Gymnastics,9,176,70
+1936,1936 Summer Olympics,Athletics,29,883,147
+1936,1936 Summer Olympics,Baseball,1,21,0
+1936,1936 Summer Olympics,Basketball,1,271,39
+1936,1936 Summer Olympics,Boxing,8,243,24
+1936,1936 Summer Olympics,Canoe Marathon,5,88,24
+1936,1936 Summer Olympics,Canoe Sprint,4,53,18
+1936,1936 Summer Olympics,Cycling Road,2,126,15
+1936,1936 Summer Olympics,Cycling Track,4,94,24
+1936,1936 Summer Olympics,Diving,4,69,12
+1936,1936 Summer Olympics,Equestrian Dressage,2,29,12
+1936,1936 Summer Olympics,Equestrian Eventing,2,50,12
+1936,1936 Summer Olympics,Equestrian Jumping,2,54,12
+1936,1936 Summer Olympics,Fencing,7,328,66
+1936,1936 Summer Olympics,Football,1,324,64
+1936,1936 Summer Olympics,Gliding,1,20,0
+1936,1936 Summer Olympics,Handball,1,117,62
+1936,1936 Summer Olympics,Hockey,1,214,62
+1936,1936 Summer Olympics,Modern Pentathlon,1,42,3
+1936,1936 Summer Olympics,Polo,1,21,12
+1936,1936 Summer Olympics,Rowing,7,365,97
+1936,1936 Summer Olympics,Sailing,4,169,42
+1936,1936 Summer Olympics,Shooting,3,141,9
+1936,1936 Summer Olympics,Swimming,11,290,63
+1936,1936 Summer Olympics,Water Polo,1,176,33
+1936,1936 Summer Olympics,Weightlifting,5,80,15
+1936,1936 Summer Olympics,Wrestling,14,200,42
+1936,1936 Winter Olympics,Alpine Skiing,2,110,6
+1936,1936 Winter Olympics,Bobsleigh,2,98,18
+1936,1936 Winter Olympics,Cross Country Skiing,3,110,18
+1936,1936 Winter Olympics,Figure Skating,3,100,12
+1936,1936 Winter Olympics,Ice Hockey,1,186,41
+1936,1936 Winter Olympics,Ice Stock Sport,5,146,0
+1936,1936 Winter Olympics,Military Ski Patrol,1,36,0
+1936,1936 Winter Olympics,Nordic Combined,1,53,3
+1936,1936 Winter Olympics,Ski Jumping,1,50,3
+1936,1936 Winter Olympics,Speed Skating,4,52,12
+1948,1948 Summer Olympics,Art Competitions,17,326,32
+1948,1948 Summer Olympics,Artistic Gymnastics,9,211,72
+1948,1948 Summer Olympics,Athletics,33,806,151
+1948,1948 Summer Olympics,Basketball,1,298,40
+1948,1948 Summer Olympics,Boxing,8,288,24
+1948,1948 Summer Olympics,Canoe Marathon,4,64,18
+1948,1948 Summer Olympics,Canoe Sprint,5,78,21
+1948,1948 Summer Olympics,Cycling Road,2,101,15
+1948,1948 Summer Olympics,Cycling Track,4,105,24
+1948,1948 Summer Olympics,Diving,4,66,12
+1948,1948 Summer Olympics,Equestrian Dressage,2,19,12
+1948,1948 Summer Olympics,Equestrian Eventing,2,45,12
+1948,1948 Summer Olympics,Equestrian Jumping,2,44,12
+1948,1948 Summer Olympics,Fencing,7,308,67
+1948,1948 Summer Olympics,Football,1,349,62
+1948,1948 Summer Olympics,Hockey,1,237,61
+1948,1948 Summer Olympics,Lacrosse,1,37,0
+1948,1948 Summer Olympics,Modern Pentathlon,1,45,3
+1948,1948 Summer Olympics,Rowing,7,312,78
+1948,1948 Summer Olympics,Sailing,4,187,40
+1948,1948 Summer Olympics,Shooting,4,188,12
+1948,1948 Summer Olympics,Swimming,11,282,66
+1948,1948 Summer Olympics,Water Polo,1,194,33
+1948,1948 Summer Olympics,Weightlifting,6,120,18
+1948,1948 Summer Olympics,Wrestling,16,219,48
+1948,1948 Winter Olympics,Alpine Skiing,6,174,19
+1948,1948 Winter Olympics,Bobsleigh,2,71,18
+1948,1948 Winter Olympics,Cross Country Skiing,3,107,18
+1948,1948 Winter Olympics,Figure Skating,3,64,12
+1948,1948 Winter Olympics,Ice Hockey,1,148,51
+1948,1948 Winter Olympics,Military Ski Patrol,1,32,0
+1948,1948 Winter Olympics,Nordic Combined,1,39,3
+1948,1948 Winter Olympics,Skeleton,1,15,3
+1948,1948 Winter Olympics,Ski Jumping,1,49,3
+1948,1948 Winter Olympics,Speed Skating,4,68,13
+1948,1948 Winter Olympics,Winter Pentathlon,1,14,0
+1952,1952 Summer Olympics,Art Competitions,7,157,0
+1952,1952 Summer Olympics,Artistic Gymnastics,15,319,110
+1952,1952 Summer Olympics,Athletics,33,1043,156
+1952,1952 Summer Olympics,Basketball,1,301,40
+1952,1952 Summer Olympics,Boxing,10,293,40
+1952,1952 Summer Olympics,Canoe Marathon,4,81,18
+1952,1952 Summer Olympics,Canoe Sprint,5,103,21
+1952,1952 Summer Olympics,Cycling Road,2,111,15
+1952,1952 Summer Olympics,Cycling Track,4,135,24
+1952,1952 Summer Olympics,Diving,4,76,12
+1952,1952 Summer Olympics,Equestrian Dressage,2,27,12
+1952,1952 Summer Olympics,Equestrian Eventing,2,59,12
+1952,1952 Summer Olympics,Equestrian Jumping,2,51,12
+1952,1952 Summer Olympics,Fencing,7,301,66
+1952,1952 Summer Olympics,Football,1,477,60
+1952,1952 Summer Olympics,Handball,1,22,0
+1952,1952 Summer Olympics,Hockey,1,177,45
+1952,1952 Summer Olympics,Modern Pentathlon,2,51,12
+1952,1952 Summer Olympics,Pesäpallo,1,24,0
+1952,1952 Summer Olympics,Rowing,7,404,78
+1952,1952 Summer Olympics,Sailing,5,227,44
+1952,1952 Summer Olympics,Shooting,7,218,21
+1952,1952 Summer Olympics,Swimming,11,357,68
+1952,1952 Summer Olympics,Water Polo,1,232,35
+1952,1952 Summer Olympics,Weightlifting,7,142,21
+1952,1952 Summer Olympics,Wrestling,16,244,48
+1952,1952 Winter Olympics,Alpine Skiing,6,167,18
+1952,1952 Winter Olympics,Bandy,1,39,0
+1952,1952 Winter Olympics,Bobsleigh,2,70,18
+1952,1952 Winter Olympics,Cross Country Skiing,4,137,21
+1952,1952 Winter Olympics,Figure Skating,3,63,12
+1952,1952 Winter Olympics,Ice Hockey,1,147,48
+1952,1952 Winter Olympics,Nordic Combined,1,25,3
+1952,1952 Winter Olympics,Ski Jumping,1,44,3
+1952,1952 Winter Olympics,Speed Skating,4,67,13
+1956,1956 Equestrian Olympics,Equestrian Dressage,2,36,12
+1956,1956 Equestrian Olympics,Equestrian Eventing,2,57,12
+1956,1956 Equestrian Olympics,Equestrian Jumping,2,66,12
+1956,1956 Summer Olympics,Artistic Gymnastics,15,128,100
+1956,1956 Summer Olympics,Athletics,33,741,154
+1956,1956 Summer Olympics,Australian Rules Football,1,46,0
+1956,1956 Summer Olympics,Baseball,1,35,0
+1956,1956 Summer Olympics,Basketball,1,174,36
+1956,1956 Summer Olympics,Boxing,10,161,40
+1956,1956 Summer Olympics,Canoe Marathon,4,64,18
+1956,1956 Summer Olympics,Canoe Sprint,5,81,21
+1956,1956 Summer Olympics,Cycling Road,2,88,15
+1956,1956 Summer Olympics,Cycling Track,4,106,25
+1956,1956 Summer Olympics,Diving,4,60,12
+1956,1956 Summer Olympics,Fencing,7,171,66
+1956,1956 Summer Olympics,Football,1,187,52
+1956,1956 Summer Olympics,Hockey,1,197,51
+1956,1956 Summer Olympics,Modern Pentathlon,2,40,12
+1956,1956 Summer Olympics,Rowing,7,242,78
+1956,1956 Summer Olympics,Sailing,5,154,34
+1956,1956 Summer Olympics,Shooting,7,156,21
+1956,1956 Summer Olympics,Swimming,13,250,74
+1956,1956 Summer Olympics,Water Polo,1,107,34
+1956,1956 Summer Olympics,Weightlifting,7,105,21
+1956,1956 Summer Olympics,Wrestling,16,173,48
+1956,1956 Winter Olympics,Alpine Skiing,6,184,18
+1956,1956 Winter Olympics,Bobsleigh,2,102,18
+1956,1956 Winter Olympics,Cross Country Skiing,6,150,33
+1956,1956 Winter Olympics,Figure Skating,3,65,12
+1956,1956 Winter Olympics,Ice Hockey,1,170,52
+1956,1956 Winter Olympics,Nordic Combined,1,36,3
+1956,1956 Winter Olympics,Ski Jumping,1,55,3
+1956,1956 Winter Olympics,Speed Skating,4,83,12
+1960,1960 Summer Olympics,Artistic Gymnastics,14,254,73
+1960,1960 Summer Olympics,Athletics,34,1090,147
+1960,1960 Summer Olympics,Basketball,1,192,36
+1960,1960 Summer Olympics,Boxing,10,282,40
+1960,1960 Summer Olympics,Canoe Sprint,7,174,39
+1960,1960 Summer Olympics,Cycling Road,2,173,15
+1960,1960 Summer Olympics,Cycling Track,4,137,24
+1960,1960 Summer Olympics,Diving,4,75,12
+1960,1960 Summer Olympics,Equestrian Dressage,1,17,3
+1960,1960 Summer Olympics,Equestrian Eventing,2,73,15
+1960,1960 Summer Olympics,Equestrian Jumping,2,69,12
+1960,1960 Summer Olympics,Fencing,8,372,80
+1960,1960 Summer Olympics,Football,1,299,56
+1960,1960 Summer Olympics,Hockey,1,280,57
+1960,1960 Summer Olympics,Modern Pentathlon,2,60,12
+1960,1960 Summer Olympics,Rowing,7,420,78
+1960,1960 Summer Olympics,Sailing,5,290,34
+1960,1960 Summer Olympics,Shooting,6,313,18
+1960,1960 Summer Olympics,Swimming,15,386,105
+1960,1960 Summer Olympics,Water Polo,1,172,37
+1960,1960 Summer Olympics,Weightlifting,7,172,21
+1960,1960 Summer Olympics,Wrestling,16,324,48
+1960,1960 Winter Olympics,Alpine Skiing,6,137,18
+1960,1960 Winter Olympics,Biathlon,1,30,3
+1960,1960 Winter Olympics,Cross Country Skiing,6,112,33
+1960,1960 Winter Olympics,Figure Skating,3,71,12
+1960,1960 Winter Olympics,Ice Hockey,1,153,51
+1960,1960 Winter Olympics,Nordic Combined,1,33,3
+1960,1960 Winter Olympics,Ski Jumping,1,45,3
+1960,1960 Winter Olympics,Speed Skating,8,103,24
+1964,1964 Summer Olympics,Artistic Gymnastics,14,213,73
+1964,1964 Summer Olympics,Athletics,36,1075,153
+1964,1964 Summer Olympics,Baseball,1,59,0
+1964,1964 Summer Olympics,Basketball,1,190,36
+1964,1964 Summer Olympics,Boxing,10,269,40
+1964,1964 Summer Olympics,Canoe Sprint,7,146,39
+1964,1964 Summer Olympics,Cycling Road,2,182,15
+1964,1964 Summer Olympics,Cycling Track,5,141,27
+1964,1964 Summer Olympics,Diving,4,80,12
+1964,1964 Summer Olympics,Equestrian Dressage,2,22,12
+1964,1964 Summer Olympics,Equestrian Eventing,2,48,15
+1964,1964 Summer Olympics,Equestrian Jumping,2,46,12
+1964,1964 Summer Olympics,Fencing,8,268,74
+1964,1964 Summer Olympics,Football,1,265,56
+1964,1964 Summer Olympics,Hockey,1,262,52
+1964,1964 Summer Olympics,Judo,4,72,16
+1964,1964 Summer Olympics,Kendo,4,51,0
+1964,1964 Summer Olympics,Modern Pentathlon,2,37,12
+1964,1964 Summer Olympics,Rowing,7,370,79
+1964,1964 Summer Olympics,Sailing,5,225,33
+1964,1964 Summer Olympics,Shooting,6,262,18
+1964,1964 Summer Olympics,Swimming,18,409,121
+1964,1964 Summer Olympics,Volleyball,2,189,72
+1964,1964 Summer Olympics,Water Polo,1,143,34
+1964,1964 Summer Olympics,Weightlifting,7,149,21
+1964,1964 Summer Olympics,Wrestling,16,275,48
+1964,1964 Winter Olympics,Alpine Skiing,6,174,18
+1964,1964 Winter Olympics,Biathlon,1,51,3
+1964,1964 Winter Olympics,Bobsleigh,2,81,18
+1964,1964 Winter Olympics,Cross Country Skiing,7,153,36
+1964,1964 Winter Olympics,Figure Skating,3,88,14
+1964,1964 Winter Olympics,Ice Hockey,1,274,51
+1964,1964 Winter Olympics,Ice Stock Sport,3,93,0
+1964,1964 Winter Olympics,Luge,3,68,12
+1964,1964 Winter Olympics,Nordic Combined,1,33,3
+1964,1964 Winter Olympics,Ski Jumping,2,58,6
+1964,1964 Winter Olympics,Speed Skating,8,135,25
+1968,1968 Summer Olympics,Artistic Gymnastics,14,218,72
+1968,1968 Summer Olympics,Athletics,36,1116,153
+1968,1968 Summer Olympics,Basketball,1,191,36
+1968,1968 Summer Olympics,Basque pelota,5,73,0
+1968,1968 Summer Olympics,Boxing,11,312,44
+1968,1968 Summer Olympics,Canoe Sprint,7,184,39
+1968,1968 Summer Olympics,Cycling Road,2,195,15
+1968,1968 Summer Olympics,Cycling Track,5,164,30
+1968,1968 Summer Olympics,Diving,4,81,12
+1968,1968 Summer Olympics,Equestrian Dressage,2,26,12
+1968,1968 Summer Olympics,Equestrian Eventing,2,49,15
+1968,1968 Summer Olympics,Equestrian Jumping,2,50,12
+1968,1968 Summer Olympics,Fencing,8,281,76
+1968,1968 Summer Olympics,Football,1,300,56
+1968,1968 Summer Olympics,Hockey,1,278,51
+1968,1968 Summer Olympics,Modern Pentathlon,2,48,12
+1968,1968 Summer Olympics,Rowing,7,353,79
+1968,1968 Summer Olympics,Sailing,5,251,33
+1968,1968 Summer Olympics,Shooting,7,351,21
+1968,1968 Summer Olympics,Swimming,29,475,155
+1968,1968 Summer Olympics,Tennis,5,46,0
+1968,1968 Summer Olympics,Volleyball,2,214,72
+1968,1968 Summer Olympics,Water Polo,1,162,33
+1968,1968 Summer Olympics,Weightlifting,7,160,21
+1968,1968 Summer Olympics,Wrestling,16,297,48
+1968,1968 Winter Olympics,Alpine Skiing,6,194,18
+1968,1968 Winter Olympics,Biathlon,2,72,15
+1968,1968 Winter Olympics,Bobsleigh,2,90,18
+1968,1968 Winter Olympics,Cross Country Skiing,7,147,36
+1968,1968 Winter Olympics,Figure Skating,4,124,12
+1968,1968 Winter Olympics,Ice Hockey,1,252,54
+1968,1968 Winter Olympics,Luge,3,87,12
+1968,1968 Winter Olympics,Nordic Combined,1,41,3
+1968,1968 Winter Olympics,Ski Jumping,2,66,6
+1968,1968 Winter Olympics,Speed Skating,8,129,25
+1972,1972 Summer Olympics,Archery,2,95,6
+1972,1972 Summer Olympics,Artistic Gymnastics,14,231,72
+1972,1972 Summer Olympics,Athletics,38,1442,172
+1972,1972 Summer Olympics,Badminton,4,25,0
+1972,1972 Summer Olympics,Basketball,1,192,36
+1972,1972 Summer Olympics,Boxing,11,359,44
+1972,1972 Summer Olympics,Canoe Slalom,4,121,15
+1972,1972 Summer Olympics,Canoe Sprint,7,209,39
+1972,1972 Summer Olympics,Cycling Road,2,217,10
+1972,1972 Summer Olympics,Cycling Track,5,166,28
+1972,1972 Summer Olympics,Diving,4,91,12
+1972,1972 Summer Olympics,Equestrian Dressage,2,33,12
+1972,1972 Summer Olympics,Equestrian Eventing,2,73,15
+1972,1972 Summer Olympics,Equestrian Jumping,2,74,15
+1972,1972 Summer Olympics,Fencing,8,307,72
+1972,1972 Summer Olympics,Football,1,304,76
+1972,1972 Summer Olympics,Handball,1,256,48
+1972,1972 Summer Olympics,Hockey,1,285,54
+1972,1972 Summer Olympics,Judo,6,148,23
+1972,1972 Summer Olympics,Modern Pentathlon,2,59,12
+1972,1972 Summer Olympics,Rowing,7,440,78
+1972,1972 Summer Olympics,Sailing,4,323,40
+1972,1972 Summer Olympics,Shooting,8,397,24
+1972,1972 Summer Olympics,Swimming,29,550,168
+1972,1972 Summer Olympics,Volleyball,2,237,72
+1972,1972 Summer Olympics,Water Polo,1,176,33
+1972,1972 Summer Olympics,Waterskiing,6,32,0
+1972,1972 Summer Olympics,Weightlifting,9,188,27
+1972,1972 Summer Olympics,Wrestling,20,388,60
+1972,1972 Winter Olympics,Alpine Skiing,6,144,18
+1972,1972 Winter Olympics,Biathlon,2,62,15
+1972,1972 Winter Olympics,Bobsleigh,2,81,18
+1972,1972 Winter Olympics,Cross Country Skiing,7,152,36
+1972,1972 Winter Olympics,Figure Skating,3,67,12
+1972,1972 Winter Olympics,Ice Hockey,1,220,61
+1972,1972 Winter Olympics,Luge,3,84,12
+1972,1972 Winter Olympics,Nordic Combined,1,40,3
+1972,1972 Winter Olympics,Ski Jumping,2,62,6
+1972,1972 Winter Olympics,Speed Skating,8,118,24
+1976,1976 Summer Olympics,Archery,2,64,6
+1976,1976 Summer Olympics,Artistic Gymnastics,14,176,74
+1976,1976 Summer Olympics,Athletics,37,1081,171
+1976,1976 Summer Olympics,Basketball,2,216,72
+1976,1976 Summer Olympics,Boxing,11,278,44
+1976,1976 Summer Olympics,Canoe Sprint,11,245,57
+1976,1976 Summer Olympics,Cycling Road,2,184,15
+1976,1976 Summer Olympics,Cycling Track,4,121,21
+1976,1976 Summer Olympics,Diving,4,80,12
+1976,1976 Summer Olympics,Equestrian Dressage,2,27,12
+1976,1976 Summer Olympics,Equestrian Eventing,2,49,15
+1976,1976 Summer Olympics,Equestrian Jumping,2,60,15
+1976,1976 Summer Olympics,Fencing,8,292,72
+1976,1976 Summer Olympics,Football,1,221,51
+1976,1976 Summer Olympics,Handball,2,248,84
+1976,1976 Summer Olympics,Hockey,1,176,48
+1976,1976 Summer Olympics,Judo,6,136,24
+1976,1976 Summer Olympics,Modern Pentathlon,2,47,12
+1976,1976 Summer Olympics,Rowing,14,593,163
+1976,1976 Summer Olympics,Sailing,6,257,36
+1976,1976 Summer Olympics,Shooting,7,344,21
+1976,1976 Summer Olympics,Swimming,26,488,135
+1976,1976 Summer Olympics,Volleyball,2,216,72
+1976,1976 Summer Olympics,Water Polo,1,132,33
+1976,1976 Summer Olympics,Weightlifting,9,173,27
+1976,1976 Summer Olympics,Wrestling,20,330,60
+1976,1976 Winter Olympics,Alpine Skiing,6,181,18
+1976,1976 Winter Olympics,Biathlon,2,74,15
+1976,1976 Winter Olympics,Bobsleigh,2,92,18
+1976,1976 Winter Olympics,Cross Country Skiing,7,165,39
+1976,1976 Winter Olympics,Figure Skating,4,105,18
+1976,1976 Winter Olympics,Ice Hockey,1,220,55
+1976,1976 Winter Olympics,Luge,3,94,12
+1976,1976 Winter Olympics,Nordic Combined,1,34,3
+1976,1976 Winter Olympics,Ski Jumping,2,62,6
+1976,1976 Winter Olympics,Speed Skating,9,113,27
+1980,1980 Summer Olympics,Archery,2,67,6
+1980,1980 Summer Olympics,Artistic Gymnastics,14,127,75
+1980,1980 Summer Olympics,Athletics,38,1024,174
+1980,1980 Summer Olympics,Basketball,2,216,72
+1980,1980 Summer Olympics,Boxing,11,273,44
+1980,1980 Summer Olympics,Canoe Sprint,11,190,57
+1980,1980 Summer Olympics,Cycling Road,2,156,15
+1980,1980 Summer Olympics,Cycling Track,4,79,22
+1980,1980 Summer Olympics,Diving,4,67,12
+1980,1980 Summer Olympics,Equestrian Dressage,2,14,12
+1980,1980 Summer Olympics,Equestrian Eventing,2,28,15
+1980,1980 Summer Olympics,Equestrian Jumping,2,26,15
+1980,1980 Summer Olympics,Fencing,8,189,71
+1980,1980 Summer Olympics,Football,1,269,51
+1980,1980 Summer Olympics,Handball,2,252,84
+1980,1980 Summer Olympics,Hockey,2,192,96
+1980,1980 Summer Olympics,Judo,8,182,32
+1980,1980 Summer Olympics,Modern Pentathlon,2,43,12
+1980,1980 Summer Olympics,Rowing,14,470,165
+1980,1980 Summer Olympics,Sailing,6,156,36
+1980,1980 Summer Olympics,Shooting,7,239,21
+1980,1980 Summer Olympics,Swimming,26,344,134
+1980,1980 Summer Olympics,Volleyball,2,216,72
+1980,1980 Summer Olympics,Water Polo,1,132,33
+1980,1980 Summer Olympics,Weightlifting,10,172,30
+1980,1980 Summer Olympics,Wrestling,20,266,60
+1980,1980 Winter Olympics,Alpine Skiing,6,179,18
+1980,1980 Winter Olympics,Biathlon,3,76,18
+1980,1980 Winter Olympics,Bobsleigh,2,78,18
+1980,1980 Winter Olympics,Cross Country Skiing,7,132,39
+1980,1980 Winter Olympics,Figure Skating,4,86,18
+1980,1980 Winter Olympics,Ice Hockey,1,240,60
+1980,1980 Winter Olympics,Luge,3,80,12
+1980,1980 Winter Olympics,Nordic Combined,1,31,3
+1980,1980 Winter Olympics,Ski Jumping,2,55,6
+1980,1980 Winter Olympics,Speed Skating,9,128,28
+1984,1984 Summer Olympics,Archery,2,109,6
+1984,1984 Summer Olympics,Artistic Gymnastics,14,136,75
+1984,1984 Summer Olympics,Artistic Swimming,2,50,9
+1984,1984 Summer Olympics,Athletics,43,1363,187
+1984,1984 Summer Olympics,Baseball,1,156,0
+1984,1984 Summer Olympics,Basketball,2,216,72
+1984,1984 Summer Olympics,Boxing,12,358,48
+1984,1984 Summer Olympics,Canoe Sprint,12,195,69
+1984,1984 Summer Olympics,Cycling Road,3,233,18
+1984,1984 Summer Olympics,Cycling Track,5,132,25
+1984,1984 Summer Olympics,Diving,4,80,12
+1984,1984 Summer Olympics,Equestrian Dressage,2,43,12
+1984,1984 Summer Olympics,Equestrian Eventing,2,48,15
+1984,1984 Summer Olympics,Equestrian Jumping,2,66,15
+1984,1984 Summer Olympics,Fencing,8,271,73
+1984,1984 Summer Olympics,Football,1,272,51
+1984,1984 Summer Olympics,Handball,2,270,90
+1984,1984 Summer Olympics,Hockey,2,288,96
+1984,1984 Summer Olympics,Judo,8,212,32
+1984,1984 Summer Olympics,Modern Pentathlon,2,53,12
+1984,1984 Summer Olympics,Rhythmic Gymnastics,1,33,3
+1984,1984 Summer Olympics,Rowing,14,447,162
+1984,1984 Summer Olympics,Sailing,8,332,39
+1984,1984 Summer Olympics,Shooting,11,460,33
+1984,1984 Summer Olympics,Swimming,29,503,159
+1984,1984 Summer Olympics,Tennis,2,64,0
+1984,1984 Summer Olympics,Volleyball,2,216,72
+1984,1984 Summer Olympics,Water Polo,1,156,39
+1984,1984 Summer Olympics,Weightlifting,10,186,30
+1984,1984 Summer Olympics,Wrestling,20,267,60
+1984,1984 Winter Olympics,Alpine Skiing,10,257,18
+1984,1984 Winter Olympics,Biathlon,3,95,18
+1984,1984 Winter Olympics,Bobsleigh,2,111,18
+1984,1984 Winter Olympics,Cross Country Skiing,8,179,42
+1984,1984 Winter Olympics,Figure Skating,4,115,18
+1984,1984 Winter Olympics,Ice Hockey,1,239,60
+1984,1984 Winter Olympics,Luge,3,81,12
+1984,1984 Winter Olympics,Nordic Combined,1,28,3
+1984,1984 Winter Olympics,Ski Jumping,2,65,6
+1984,1984 Winter Olympics,Speed Skating,9,139,27
+1988,1988 Summer Olympics,Archery,4,146,24
+1988,1988 Summer Olympics,Artistic Gymnastics,14,179,75
+1988,1988 Summer Olympics,Artistic Swimming,2,46,9
+1988,1988 Summer Olympics,Athletics,44,1681,191
+1988,1988 Summer Olympics,Badminton,5,32,0
+1988,1988 Summer Olympics,Baseball,1,151,0
+1988,1988 Summer Olympics,Basketball,2,240,72
+1988,1988 Summer Olympics,Bowling,2,24,0
+1988,1988 Summer Olympics,Boxing,12,441,48
+1988,1988 Summer Olympics,Canoe Sprint,12,275,69
+1988,1988 Summer Olympics,Cycling Road,3,265,18
+1988,1988 Summer Olympics,Cycling Track,6,171,30
+1988,1988 Summer Olympics,Diving,4,89,12
+1988,1988 Summer Olympics,Equestrian Dressage,2,53,15
+1988,1988 Summer Olympics,Equestrian Eventing,2,50,15
+1988,1988 Summer Olympics,Equestrian Jumping,2,80,15
+1988,1988 Summer Olympics,Fencing,8,320,72
+1988,1988 Summer Olympics,Football,1,314,60
+1988,1988 Summer Olympics,Handball,2,300,90
+1988,1988 Summer Olympics,Hockey,2,320,96
+1988,1988 Summer Olympics,Judo,14,296,28
+1988,1988 Summer Olympics,Modern Pentathlon,2,65,12
+1988,1988 Summer Olympics,Rhythmic Gymnastics,1,39,3
+1988,1988 Summer Olympics,Rowing,14,595,166
+1988,1988 Summer Olympics,Sailing,8,375,45
+1988,1988 Summer Olympics,Shooting,13,396,39
+1988,1988 Summer Olympics,Swimming,31,638,167
+1988,1988 Summer Olympics,Table Tennis,4,129,18
+1988,1988 Summer Olympics,Taekwondo,16,182,0
+1988,1988 Summer Olympics,Tennis,4,131,24
+1988,1988 Summer Olympics,Volleyball,2,240,72
+1988,1988 Summer Olympics,Water Polo,1,156,39
+1988,1988 Summer Olympics,Weightlifting,10,226,30
+1988,1988 Summer Olympics,Wrestling,20,429,60
+1988,1988 Winter Olympics,Alpine Skiing,12,292,30
+1988,1988 Winter Olympics,Biathlon,3,90,18
+1988,1988 Winter Olympics,Bobsleigh,2,135,18
+1988,1988 Winter Olympics,Cross Country Skiing,10,230,42
+1988,1988 Winter Olympics,Curling,2,76,0
+1988,1988 Winter Olympics,Figure Skating,4,129,18
+1988,1988 Winter Olympics,Freestyle Skiing,6,54,0
+1988,1988 Winter Olympics,Ice Hockey,1,274,68
+1988,1988 Winter Olympics,Luge,3,90,12
+1988,1988 Winter Olympics,Nordic Combined,2,44,12
+1988,1988 Winter Olympics,Short Track Speed Skating,10,64,0
+1988,1988 Winter Olympics,Ski Jumping,3,65,18
+1988,1988 Winter Olympics,Speed Skating,10,142,30
+1992,1992 Summer Olympics,Archery,4,136,24
+1992,1992 Summer Olympics,Artistic Gymnastics,14,185,77
+1992,1992 Summer Olympics,Artistic Swimming,2,53,9
+1992,1992 Summer Olympics,Athletics,45,1757,178
+1992,1992 Summer Olympics,Badminton,4,177,24
+1992,1992 Summer Olympics,Baseball,1,160,60
+1992,1992 Summer Olympics,Basketball,2,240,72
+1992,1992 Summer Olympics,Basque pelota,8,121,0
+1992,1992 Summer Olympics,Boxing,12,339,48
+1992,1992 Summer Olympics,Canoe Slalom,4,135,15
+1992,1992 Summer Olympics,Canoe Sprint,12,305,69
+1992,1992 Summer Olympics,Cycling Road,3,283,18
+1992,1992 Summer Olympics,Cycling Track,7,195,32
+1992,1992 Summer Olympics,Diving,4,100,12
+1992,1992 Summer Olympics,Equestrian Dressage,2,48,15
+1992,1992 Summer Olympics,Equestrian Eventing,2,82,15
+1992,1992 Summer Olympics,Equestrian Jumping,2,87,15
+1992,1992 Summer Olympics,Fencing,8,306,72
+1992,1992 Summer Olympics,Football,1,320,60
+1992,1992 Summer Olympics,Handball,2,317,95
+1992,1992 Summer Olympics,Hockey,2,320,96
+1992,1992 Summer Olympics,Judo,14,433,56
+1992,1992 Summer Olympics,Modern Pentathlon,2,66,12
+1992,1992 Summer Olympics,Rhythmic Gymnastics,1,42,3
+1992,1992 Summer Olympics,Roller Hockey,1,120,0
+1992,1992 Summer Olympics,Rowing,14,628,157
+1992,1992 Summer Olympics,Sailing,10,441,51
+1992,1992 Summer Olympics,Shooting,13,407,39
+1992,1992 Summer Olympics,Swimming,31,644,169
+1992,1992 Summer Olympics,Table Tennis,4,159,24
+1992,1992 Summer Olympics,Taekwondo,16,113,0
+1992,1992 Summer Olympics,Tennis,4,178,24
+1992,1992 Summer Olympics,Volleyball,2,239,72
+1992,1992 Summer Olympics,Water Polo,1,156,39
+1992,1992 Summer Olympics,Weightlifting,10,244,29
+1992,1992 Summer Olympics,Wrestling,20,370,60
+1992,1992 Winter Olympics,Alpine Skiing,10,325,30
+1992,1992 Winter Olympics,Biathlon,6,196,33
+1992,1992 Winter Olympics,Bobsleigh,2,159,18
+1992,1992 Winter Olympics,Cross Country Skiing,10,223,48
+1992,1992 Winter Olympics,Curling,2,80,0
+1992,1992 Winter Olympics,Figure Skating,4,133,18
+1992,1992 Winter Olympics,Freestyle Skiing,6,126,6
+1992,1992 Winter Olympics,Ice Hockey,1,276,69
+1992,1992 Winter Olympics,Luge,3,89,12
+1992,1992 Winter Olympics,Nordic Combined,2,46,12
+1992,1992 Winter Olympics,Short Track Speed Skating,4,102,36
+1992,1992 Winter Olympics,Ski Jumping,3,63,18
+1992,1992 Winter Olympics,Speed Skating,10,155,30
+1992,1992 Winter Olympics,Speed Skiing,2,65,0
+1994,1994 Winter Olympics,Alpine Skiing,10,253,30
+1994,1994 Winter Olympics,Biathlon,6,193,36
+1994,1994 Winter Olympics,Bobsleigh,2,155,18
+1994,1994 Winter Olympics,Cross Country Skiing,10,197,48
+1994,1994 Winter Olympics,Figure Skating,4,129,18
+1994,1994 Winter Olympics,Freestyle Skiing,4,99,12
+1994,1994 Winter Olympics,Ice Hockey,1,276,69
+1994,1994 Winter Olympics,Luge,3,92,12
+1994,1994 Winter Olympics,Nordic Combined,2,53,12
+1994,1994 Winter Olympics,Short Track Speed Skating,6,101,42
+1994,1994 Winter Olympics,Ski Jumping,3,68,18
+1994,1994 Winter Olympics,Speed Skating,10,150,30
+1996,1996 Summer Olympics,Archery,4,128,24
+1996,1996 Summer Olympics,Artistic Gymnastics,14,216,80
+1996,1996 Summer Olympics,Artistic Swimming,1,73,29
+1996,1996 Summer Olympics,Athletics,46,2090,180
+1996,1996 Summer Olympics,Badminton,5,192,24
+1996,1996 Summer Olympics,Baseball,1,160,60
+1996,1996 Summer Olympics,Basketball,2,288,72
+1996,1996 Summer Olympics,Beach Volleyball,2,84,12
+1996,1996 Summer Olympics,Boxing,12,355,48
+1996,1996 Summer Olympics,Canoe Slalom,4,134,15
+1996,1996 Summer Olympics,Canoe Sprint,12,317,69
+1996,1996 Summer Olympics,Cycling Mountain Bike,2,72,6
+1996,1996 Summer Olympics,Cycling Road,4,248,12
+1996,1996 Summer Olympics,Cycling Track,8,179,34
+1996,1996 Summer Olympics,Diving,4,122,12
+1996,1996 Summer Olympics,Equestrian Dressage,2,49,15
+1996,1996 Summer Olympics,Equestrian Eventing,2,88,15
+1996,1996 Summer Olympics,Equestrian Jumping,2,82,15
+1996,1996 Summer Olympics,Fencing,10,224,61
+1996,1996 Summer Olympics,Football,2,502,122
+1996,1996 Summer Olympics,Handball,2,319,96
+1996,1996 Summer Olympics,Hockey,2,320,96
+1996,1996 Summer Olympics,Judo,14,387,56
+1996,1996 Summer Olympics,Modern Pentathlon,1,32,3
+1996,1996 Summer Olympics,Rhythmic Gymnastics,2,90,21
+1996,1996 Summer Olympics,Rowing,14,608,144
+1996,1996 Summer Olympics,Sailing,10,458,48
+1996,1996 Summer Olympics,Shooting,15,419,45
+1996,1996 Summer Olympics,Softball,1,120,45
+1996,1996 Summer Olympics,Swimming,32,764,181
+1996,1996 Summer Olympics,Table Tennis,4,166,18
+1996,1996 Summer Olympics,Tennis,4,178,18
+1996,1996 Summer Olympics,Volleyball,2,288,72
+1996,1996 Summer Olympics,Water Polo,1,156,39
+1996,1996 Summer Olympics,Weightlifting,10,243,30
+1996,1996 Summer Olympics,Wrestling,20,401,60
+1998,1998 Winter Olympics,Alpine Skiing,10,252,30
+1998,1998 Winter Olympics,Biathlon,6,183,36
+1998,1998 Winter Olympics,Bobsleigh,2,156,22
+1998,1998 Winter Olympics,Cross Country Skiing,10,229,48
+1998,1998 Winter Olympics,Curling,2,80,30
+1998,1998 Winter Olympics,Figure Skating,4,145,18
+1998,1998 Winter Olympics,Freestyle Skiing,4,111,12
+1998,1998 Winter Olympics,Ice Hockey,2,441,129
+1998,1998 Winter Olympics,Luge,3,93,12
+1998,1998 Winter Olympics,Nordic Combined,2,53,15
+1998,1998 Winter Olympics,Short Track Speed Skating,6,103,42
+1998,1998 Winter Olympics,Ski Jumping,3,68,18
+1998,1998 Winter Olympics,Snowboarding,4,125,12
+1998,1998 Winter Olympics,Speed Skating,10,171,30
+2000,2000 Summer Olympics,Archery,4,128,24
+2000,2000 Summer Olympics,Artistic Gymnastics,14,194,72
+2000,2000 Summer Olympics,Artistic Swimming,2,101,31
+2000,2000 Summer Olympics,Athletics,48,2164,191
+2000,2000 Summer Olympics,Badminton,5,172,24
+2000,2000 Summer Olympics,Baseball,1,192,72
+2000,2000 Summer Olympics,Basketball,2,288,72
+2000,2000 Summer Olympics,Beach Volleyball,2,96,12
+2000,2000 Summer Olympics,Boxing,12,310,48
+2000,2000 Summer Olympics,Canoe Slalom,4,83,15
+2000,2000 Summer Olympics,Canoe Sprint,12,247,69
+2000,2000 Summer Olympics,Cycling Mountain Bike,2,79,6
+2000,2000 Summer Olympics,Cycling Road,4,218,11
+2000,2000 Summer Olympics,Cycling Track,12,180,56
+2000,2000 Summer Olympics,Diving,8,157,36
+2000,2000 Summer Olympics,Equestrian Dressage,2,47,15
+2000,2000 Summer Olympics,Equestrian Eventing,2,74,15
+2000,2000 Summer Olympics,Equestrian Jumping,2,74,15
+2000,2000 Summer Olympics,Fencing,10,217,66
+2000,2000 Summer Olympics,Football,2,520,129
+2000,2000 Summer Olympics,Handball,2,329,90
+2000,2000 Summer Olympics,Hockey,2,352,96
+2000,2000 Summer Olympics,Judo,14,398,56
+2000,2000 Summer Olympics,Modern Pentathlon,2,48,6
+2000,2000 Summer Olympics,Rhythmic Gymnastics,2,84,21
+2000,2000 Summer Olympics,Rowing,14,548,144
+2000,2000 Summer Olympics,Sailing,11,402,54
+2000,2000 Summer Olympics,Shooting,17,408,51
+2000,2000 Summer Olympics,Softball,1,120,45
+2000,2000 Summer Olympics,Swimming,32,956,185
+2000,2000 Summer Olympics,Table Tennis,4,171,18
+2000,2000 Summer Olympics,Taekwondo,8,103,24
+2000,2000 Summer Olympics,Tennis,4,182,18
+2000,2000 Summer Olympics,Trampolining,2,24,6
+2000,2000 Summer Olympics,Triathlon,2,100,6
+2000,2000 Summer Olympics,Volleyball,2,288,72
+2000,2000 Summer Olympics,Water Polo,2,234,78
+2000,2000 Summer Olympics,Weightlifting,15,246,45
+2000,2000 Summer Olympics,Wrestling,16,314,48
+2002,2002 Winter Olympics,Alpine Skiing,10,280,30
+2002,2002 Winter Olympics,Biathlon,8,190,42
+2002,2002 Winter Olympics,Bobsleigh,3,195,24
+2002,2002 Winter Olympics,Cross Country Skiing,12,260,54
+2002,2002 Winter Olympics,Curling,2,100,30
+2002,2002 Winter Olympics,Figure Skating,4,144,18
+2002,2002 Winter Olympics,Freestyle Skiing,4,105,12
+2002,2002 Winter Olympics,Ice Hockey,2,485,129
+2002,2002 Winter Olympics,Luge,3,110,12
+2002,2002 Winter Olympics,Nordic Combined,3,54,18
+2002,2002 Winter Olympics,Short Track Speed Skating,8,115,48
+2002,2002 Winter Olympics,Skeleton,2,39,6
+2002,2002 Winter Olympics,Ski Jumping,3,73,18
+2002,2002 Winter Olympics,Snowboarding,4,119,12
+2002,2002 Winter Olympics,Speed Skating,10,166,30
+2004,2004 Summer Olympics,Archery,4,128,24
+2004,2004 Summer Olympics,Artistic Gymnastics,14,196,72
+2004,2004 Summer Olympics,Artistic Swimming,2,101,33
+2004,2004 Summer Olympics,Athletics,48,2109,198
+2004,2004 Summer Olympics,Badminton,5,172,24
+2004,2004 Summer Olympics,Baseball,1,191,72
+2004,2004 Summer Olympics,Basketball,2,288,72
+2004,2004 Summer Olympics,Beach Volleyball,2,96,12
+2004,2004 Summer Olympics,Boxing,11,283,44
+2004,2004 Summer Olympics,Canoe Slalom,4,84,15
+2004,2004 Summer Olympics,Canoe Sprint,12,244,69
+2004,2004 Summer Olympics,Cycling Mountain Bike,2,80,6
+2004,2004 Summer Olympics,Cycling Road,4,213,12
+2004,2004 Summer Olympics,Cycling Track,12,180,58
+2004,2004 Summer Olympics,Diving,8,129,36
+2004,2004 Summer Olympics,Equestrian Dressage,2,51,15
+2004,2004 Summer Olympics,Equestrian Eventing,2,75,18
+2004,2004 Summer Olympics,Equestrian Jumping,2,77,15
+2004,2004 Summer Olympics,Fencing,10,223,61
+2004,2004 Summer Olympics,Football,2,558,129
+2004,2004 Summer Olympics,Handball,2,330,90
+2004,2004 Summer Olympics,Hockey,2,352,96
+2004,2004 Summer Olympics,Judo,14,384,56
+2004,2004 Summer Olympics,Modern Pentathlon,2,64,6
+2004,2004 Summer Olympics,Rhythmic Gymnastics,2,84,21
+2004,2004 Summer Olympics,Rowing,14,558,144
+2004,2004 Summer Olympics,Sailing,11,400,54
+2004,2004 Summer Olympics,Shooting,17,390,51
+2004,2004 Summer Olympics,Softball,1,120,45
+2004,2004 Summer Olympics,Swimming,32,938,185
+2004,2004 Summer Olympics,Table Tennis,4,172,18
+2004,2004 Summer Olympics,Taekwondo,8,124,24
+2004,2004 Summer Olympics,Tennis,4,172,18
+2004,2004 Summer Olympics,Trampolining,2,32,6
+2004,2004 Summer Olympics,Triathlon,2,100,6
+2004,2004 Summer Olympics,Volleyball,2,288,72
+2004,2004 Summer Olympics,Water Polo,2,259,78
+2004,2004 Summer Olympics,Weightlifting,15,249,45
+2004,2004 Summer Olympics,Wrestling,18,342,54
+2006,2006 Winter Olympics,Alpine Skiing,10,288,30
+2006,2006 Winter Olympics,Biathlon,10,204,48
+2006,2006 Winter Olympics,Bobsleigh,3,152,24
+2006,2006 Winter Olympics,Cross Country Skiing,12,307,60
+2006,2006 Winter Olympics,Curling,2,100,30
+2006,2006 Winter Olympics,Figure Skating,4,147,18
+2006,2006 Winter Olympics,Freestyle Skiing,4,119,12
+2006,2006 Winter Olympics,Ice Hockey,2,447,133
+2006,2006 Winter Olympics,Luge,3,108,12
+2006,2006 Winter Olympics,Nordic Combined,3,59,18
+2006,2006 Winter Olympics,Short Track Speed Skating,8,110,48
+2006,2006 Winter Olympics,Skeleton,2,42,6
+2006,2006 Winter Olympics,Ski Jumping,3,79,18
+2006,2006 Winter Olympics,Snowboarding,6,187,18
+2006,2006 Winter Olympics,Speed Skating,12,174,60
+2008,2008 Summer Olympics,Archery,4,128,24
+2008,2008 Summer Olympics,Artistic Gymnastics,14,196,72
+2008,2008 Summer Olympics,Artistic Swimming,2,103,33
+2008,2008 Summer Olympics,Athletics,47,2157,199
+2008,2008 Summer Olympics,Badminton,5,173,24
+2008,2008 Summer Olympics,Baseball,1,192,72
+2008,2008 Summer Olympics,Basketball,2,288,72
+2008,2008 Summer Olympics,Beach Volleyball,2,96,12
+2008,2008 Summer Olympics,Boxing,11,286,44
+2008,2008 Summer Olympics,Canoe Slalom,4,82,15
+2008,2008 Summer Olympics,Canoe Sprint,12,248,69
+2008,2008 Summer Olympics,Cycling BMX Racing,2,48,6
+2008,2008 Summer Olympics,Cycling Mountain Bike,2,80,6
+2008,2008 Summer Olympics,Cycling Road,4,211,12
+2008,2008 Summer Olympics,Cycling Track,10,176,51
+2008,2008 Summer Olympics,Diving,8,140,36
+2008,2008 Summer Olympics,Equestrian Dressage,2,47,12
+2008,2008 Summer Olympics,Equestrian Eventing,2,69,18
+2008,2008 Summer Olympics,Equestrian Jumping,2,77,15
+2008,2008 Summer Olympics,Fencing,10,234,63
+2008,2008 Summer Olympics,Football,2,515,109
+2008,2008 Summer Olympics,Handball,2,344,85
+2008,2008 Summer Olympics,Hockey,2,432,108
+2008,2008 Summer Olympics,Judo,14,386,56
+2008,2008 Summer Olympics,Marathon Swimming,2,50,6
+2008,2008 Summer Olympics,Modern Pentathlon,2,72,6
+2008,2008 Summer Olympics,Rhythmic Gymnastics,2,95,21
+2008,2008 Summer Olympics,Rowing,14,555,144
+2008,2008 Summer Olympics,Sailing,11,400,54
+2008,2008 Summer Olympics,Shooting,15,390,45
+2008,2008 Summer Olympics,Softball,1,120,45
+2008,2008 Summer Olympics,Swimming,32,984,194
+2008,2008 Summer Olympics,Table Tennis,4,171,24
+2008,2008 Summer Olympics,Taekwondo,8,128,32
+2008,2008 Summer Olympics,Tennis,4,173,18
+2008,2008 Summer Olympics,Trampolining,2,32,6
+2008,2008 Summer Olympics,Triathlon,2,110,6
+2008,2008 Summer Olympics,Volleyball,2,288,72
+2008,2008 Summer Olympics,Water Polo,2,260,78
+2008,2008 Summer Olympics,Weightlifting,15,253,45
+2008,2008 Summer Olympics,Wrestling,18,343,71
+2008,2008 Summer Olympics,Wushu,15,121,0
+2010,2010 Winter Olympics,Alpine Skiing,10,309,30
+2010,2010 Winter Olympics,Biathlon,10,204,48
+2010,2010 Winter Olympics,Bobsleigh,3,159,24
+2010,2010 Winter Olympics,Cross Country Skiing,12,292,60
+2010,2010 Winter Olympics,Curling,2,100,30
+2010,2010 Winter Olympics,Figure Skating,4,146,18
+2010,2010 Winter Olympics,Freestyle Skiing,6,173,18
+2010,2010 Winter Olympics,Ice Hockey,2,444,132
+2010,2010 Winter Olympics,Luge,3,108,12
+2010,2010 Winter Olympics,Nordic Combined,3,52,18
+2010,2010 Winter Olympics,Short Track Speed Skating,8,113,48
+2010,2010 Winter Olympics,Skeleton,2,48,6
+2010,2010 Winter Olympics,Ski Jumping,3,68,18
+2010,2010 Winter Olympics,Snowboarding,6,188,18
+2010,2010 Winter Olympics,Speed Skating,12,177,54
+2012,2012 Summer Olympics,Archery,4,128,24
+2012,2012 Summer Olympics,Artistic Gymnastics,14,195,66
+2012,2012 Summer Olympics,Artistic Swimming,2,104,33
+2012,2012 Summer Olympics,Athletics,47,2098,188
+2012,2012 Summer Olympics,Badminton,5,172,24
+2012,2012 Summer Olympics,Basketball,2,287,72
+2012,2012 Summer Olympics,Beach Volleyball,2,96,12
+2012,2012 Summer Olympics,Boxing,13,286,52
+2012,2012 Summer Olympics,Canoe Slalom,4,83,15
+2012,2012 Summer Olympics,Canoe Sprint,12,249,66
+2012,2012 Summer Olympics,Cycling BMX Racing,2,48,6
+2012,2012 Summer Olympics,Cycling Mountain Bike,2,80,6
+2012,2012 Summer Olympics,Cycling Road,4,210,12
+2012,2012 Summer Olympics,Cycling Track,10,173,57
+2012,2012 Summer Olympics,Diving,8,136,36
+2012,2012 Summer Olympics,Equestrian Dressage,2,50,12
+2012,2012 Summer Olympics,Equestrian Eventing,2,74,18
+2012,2012 Summer Olympics,Equestrian Jumping,2,75,15
+2012,2012 Summer Olympics,Fencing,10,244,66
+2012,2012 Summer Olympics,Football,2,616,132
+2012,2012 Summer Olympics,Handball,2,361,90
+2012,2012 Summer Olympics,Hockey,2,432,108
+2012,2012 Summer Olympics,Judo,14,387,56
+2012,2012 Summer Olympics,Marathon Swimming,2,50,6
+2012,2012 Summer Olympics,Modern Pentathlon,2,72,6
+2012,2012 Summer Olympics,Rhythmic Gymnastics,2,96,21
+2012,2012 Summer Olympics,Rowing,14,549,144
+2012,2012 Summer Olympics,Sailing,10,380,48
+2012,2012 Summer Olympics,Shooting,15,390,45
+2012,2012 Summer Olympics,Swimming,32,887,189
+2012,2012 Summer Olympics,Table Tennis,4,174,24
+2012,2012 Summer Olympics,Taekwondo,8,128,32
+2012,2012 Summer Olympics,Tennis,5,187,24
+2012,2012 Summer Olympics,Trampolining,2,32,6
+2012,2012 Summer Olympics,Triathlon,2,110,6
+2012,2012 Summer Olympics,Volleyball,2,288,72
+2012,2012 Summer Olympics,Water Polo,2,260,78
+2012,2012 Summer Olympics,Weightlifting,15,252,44
+2012,2012 Summer Olympics,Wrestling,18,343,72
+2014,2014 Winter Olympics,Alpine Skiing,10,319,31
+2014,2014 Winter Olympics,Biathlon,11,204,56
+2014,2014 Winter Olympics,Bobsleigh,3,172,24
+2014,2014 Winter Olympics,Cross Country Skiing,12,299,60
+2014,2014 Winter Olympics,Curling,2,100,30
+2014,2014 Winter Olympics,Figure Skating,5,149,45
+2014,2014 Winter Olympics,Freestyle Skiing,10,267,30
+2014,2014 Winter Olympics,Ice Hockey,2,468,138
+2014,2014 Winter Olympics,Luge,4,108,24
+2014,2014 Winter Olympics,Nordic Combined,3,54,18
+2014,2014 Winter Olympics,Short Track Speed Skating,8,116,48
+2014,2014 Winter Olympics,Skeleton,2,47,6
+2014,2014 Winter Olympics,Ski Jumping,4,96,21
+2014,2014 Winter Olympics,Snowboarding,10,239,30
+2014,2014 Winter Olympics,Speed Skating,12,177,54
+2016,2016 Summer Olympics,Archery,4,128,24
+2016,2016 Summer Olympics,Artistic Gymnastics,14,196,66
+2016,2016 Summer Olympics,Artistic Swimming,2,104,33
+2016,2016 Summer Olympics,Athletics,47,2283,192
+2016,2016 Summer Olympics,Badminton,5,172,24
+2016,2016 Summer Olympics,Basketball,2,288,72
+2016,2016 Summer Olympics,Beach Volleyball,2,96,12
+2016,2016 Summer Olympics,Boxing,13,286,51
+2016,2016 Summer Olympics,Canoe Slalom,4,83,15
+2016,2016 Summer Olympics,Canoe Sprint,12,247,67
+2016,2016 Summer Olympics,Cycling BMX Racing,2,48,6
+2016,2016 Summer Olympics,Cycling Mountain Bike,2,78,6
+2016,2016 Summer Olympics,Cycling Road,4,212,12
+2016,2016 Summer Olympics,Cycling Track,10,181,61
+2016,2016 Summer Olympics,Diving,8,136,36
+2016,2016 Summer Olympics,Equestrian Dressage,2,60,15
+2016,2016 Summer Olympics,Equestrian Eventing,2,65,15
+2016,2016 Summer Olympics,Equestrian Jumping,2,75,15
+2016,2016 Summer Olympics,Fencing,10,246,66
+2016,2016 Summer Olympics,Football,2,609,133
+2016,2016 Summer Olympics,Golf,2,120,6
+2016,2016 Summer Olympics,Handball,2,355,90
+2016,2016 Summer Olympics,Hockey,2,432,109
+2016,2016 Summer Olympics,Judo,14,390,56
+2016,2016 Summer Olympics,Marathon Swimming,2,51,6
+2016,2016 Summer Olympics,Modern Pentathlon,2,72,6
+2016,2016 Summer Olympics,Rhythmic Gymnastics,2,96,18
+2016,2016 Summer Olympics,Rowing,14,546,144
+2016,2016 Summer Olympics,Rugby Sevens,2,300,74
+2016,2016 Summer Olympics,Sailing,10,380,45
+2016,2016 Summer Olympics,Shooting,15,390,45
+2016,2016 Summer Olympics,Swimming,32,900,185
+2016,2016 Summer Olympics,Table Tennis,4,172,24
+2016,2016 Summer Olympics,Taekwondo,8,128,32
+2016,2016 Summer Olympics,Tennis,5,196,24
+2016,2016 Summer Olympics,Trampolining,2,32,6
+2016,2016 Summer Olympics,Triathlon,2,110,6
+2016,2016 Summer Olympics,Volleyball,2,288,72
+2016,2016 Summer Olympics,Water Polo,2,260,78
+2016,2016 Summer Olympics,Weightlifting,15,259,44
+2016,2016 Summer Olympics,Wrestling,18,347,72
+2018,2018 Winter Olympics,Alpine Skiing,11,312,47
+2018,2018 Winter Olympics,Biathlon,11,200,60
+2018,2018 Winter Olympics,Bobsleigh,3,167,24
+2018,2018 Winter Olympics,Cross Country Skiing,12,290,61
+2018,2018 Winter Olympics,Curling,3,113,36
+2018,2018 Winter Olympics,Figure Skating,5,153,64
+2018,2018 Winter Olympics,Freestyle Skiing,10,268,30
+2018,2018 Winter Olympics,Ice Hockey,2,496,144
+2018,2018 Winter Olympics,Luge,4,110,24
+2018,2018 Winter Olympics,Nordic Combined,3,51,18
+2018,2018 Winter Olympics,Short Track Speed Skating,8,115,48
+2018,2018 Winter Olympics,Skeleton,2,50,6
+2018,2018 Winter Olympics,Ski Jumping,4,100,21
+2018,2018 Winter Olympics,Snowboarding,10,248,30
+2018,2018 Winter Olympics,Speed Skating,14,184,60
+2020,2020 Summer Olympics,3x3 Basketball,2,64,24
+2020,2020 Summer Olympics,Archery,5,128,30
+2020,2020 Summer Olympics,Artistic Gymnastics,14,196,61
+2020,2020 Summer Olympics,Artistic Swimming,2,104,30
+2020,2020 Summer Olympics,Athletics,48,2013,228
+2020,2020 Summer Olympics,Badminton,5,173,24
+2020,2020 Summer Olympics,Baseball,1,144,72
+2020,2020 Summer Olympics,Basketball,2,288,72
+2020,2020 Summer Olympics,Beach Volleyball,2,96,12
+2020,2020 Summer Olympics,Boxing,13,289,52
+2020,2020 Summer Olympics,Canoe Slalom,4,82,12
+2020,2020 Summer Olympics,Canoe Sprint,12,248,66
+2020,2020 Summer Olympics,Cycling BMX Freestyle,2,18,6
+2020,2020 Summer Olympics,Cycling BMX Racing,2,48,6
+2020,2020 Summer Olympics,Cycling Mountain Bike,2,76,6
+2020,2020 Summer Olympics,Cycling Road,4,201,12
+2020,2020 Summer Olympics,Cycling Track,12,195,76
+2020,2020 Summer Olympics,Diving,8,143,36
+2020,2020 Summer Olympics,Equestrian Dressage,2,69,14
+2020,2020 Summer Olympics,Equestrian Eventing,2,75,14
+2020,2020 Summer Olympics,Equestrian Jumping,2,91,15
+2020,2020 Summer Olympics,Fencing,12,264,90
+2020,2020 Summer Olympics,Football,2,608,132
+2020,2020 Summer Olympics,Golf,2,120,6
+2020,2020 Summer Olympics,Handball,2,368,93
+2020,2020 Summer Olympics,Hockey,2,432,108
+2020,2020 Summer Olympics,Judo,15,393,102
+2020,2020 Summer Olympics,Karate,8,81,32
+2020,2020 Summer Olympics,Marathon Swimming,2,51,6
+2020,2020 Summer Olympics,Modern Pentathlon,2,72,6
+2020,2020 Summer Olympics,Rhythmic Gymnastics,2,96,18
+2020,2020 Summer Olympics,Rowing,14,523,145
+2020,2020 Summer Olympics,Rugby Sevens,2,312,78
+2020,2020 Summer Olympics,Sailing,10,350,45
+2020,2020 Summer Olympics,Shooting,15,355,54
+2020,2020 Summer Olympics,Skateboarding,4,80,12
+2020,2020 Summer Olympics,Softball,1,90,45
+2020,2020 Summer Olympics,Sport Climbing,2,40,6
+2020,2020 Summer Olympics,Surfing,2,40,6
+2020,2020 Summer Olympics,Swimming,35,878,208
+2020,2020 Summer Olympics,Table Tennis,5,174,30
+2020,2020 Summer Olympics,Taekwondo,8,130,32
+2020,2020 Summer Olympics,Tennis,5,190,24
+2020,2020 Summer Olympics,Trampolining,2,32,6
+2020,2020 Summer Olympics,Triathlon,3,110,18
+2020,2020 Summer Olympics,Volleyball,2,288,72
+2020,2020 Summer Olympics,Water Polo,2,286,78
+2020,2020 Summer Olympics,Weightlifting,14,197,42
+2020,2020 Summer Olympics,Wrestling,18,289,72
+2022,2022 Winter Olympics,Alpine Skiing,11,301,47
+2022,2022 Winter Olympics,Biathlon,11,200,60
+2022,2022 Winter Olympics,Bobsleigh,4,166,30
+2022,2022 Winter Olympics,Cross Country Skiing,12,293,60
+2022,2022 Winter Olympics,Curling,3,114,36
+2022,2022 Winter Olympics,Figure Skating,5,148,62
+2022,2022 Winter Olympics,Freestyle Skiing,13,267,46
+2022,2022 Winter Olympics,Ice Hockey,2,538,144
+2022,2022 Winter Olympics,Luge,4,104,24
+2022,2022 Winter Olympics,Nordic Combined,3,57,18
+2022,2022 Winter Olympics,Short Track Speed Skating,9,112,64
+2022,2022 Winter Olympics,Skeleton,2,50,6
+2022,2022 Winter Olympics,Ski Jumping,5,104,33
+2022,2022 Winter Olympics,Snowboarding,11,233,36
+2022,2022 Winter Olympics,Speed Skating,14,164,60

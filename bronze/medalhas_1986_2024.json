@@ -1,0 +1,26 @@
+{
+  "nome_dataset": "Medalhas Olímpicas 1896–2024 (Consolidado)",
+  "arquivo": "medalhas_1986_2024.csv",
+  "camada": "bronze",
+  "fontes_origem": ["raw/olympics_historico.csv", "raw/olympics_paris2024.csv"],
+  "descricao": "Dataset integrado de medalhas olímpicas históricas (1896-2022) com Paris 2024, contendo atleta, país, modalidade, tipo de medalha e edição.",
+  "campos_principais": [
+    {"campo": "edition", "tipo": "string", "descricao": "Nome da edição dos Jogos"},
+    {"campo": "edition_year", "tipo": "integer", "descricao": "Ano da edição"},
+    {"campo": "country_code", "tipo": "string", "descricao": "Código NOC/IOC do país"},
+    {"campo": "discipline", "tipo": "string", "descricao": "Modalidade esportiva"},
+    {"campo": "event", "tipo": "string", "descricao": "Evento específico"},
+    {"campo": "name", "tipo": "string", "descricao": "Nome do atleta"},
+    {"campo": "medal", "tipo": "string", "descricao": "Gold, Silver ou Bronze"},
+    {"campo": "is_team_sport", "tipo": "boolean", "descricao": "Esporte coletivo (nulo para Paris 2024)"},
+    {"campo": "source", "tipo": "string", "descricao": "Origem do registro: 'historico' ou 'paris2024'"}
+  ],
+  "data_processamento": "2025-01-01",
+  "total_registros": 45731,
+  "transformacoes": [
+    "Filtragem de apenas registros com medalha no dataset histórico",
+    "Normalização dos nomes de colunas para padronização",
+    "Concatenação vertical dos dois datasets",
+    "Adição de coluna 'source' para identificar a origem"
+  ]
+}

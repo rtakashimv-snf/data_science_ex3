@@ -1,0 +1,16 @@
+{
+  "nome_dataset": "Análise de Modalidades Olímpicas – Histórico 1896–2022",
+  "camada": "gold",
+  "descricao": "Análise das modalidades esportivas ao longo da história dos Jogos Olímpicos, destacando quais esportes tiveram maior participação de atletas e volume de medalhas.",
+  "fontes_origem": ["bronze/modalidades_1986_2024.csv"],
+  "arquivos_gerados": [
+    {"arquivo": "modalidades_plot.png", "descricao": "Gráfico de barras horizontais – Top 10 modalidades por atletas únicos"},
+    {"arquivo": "metadata.json", "descricao": "Este arquivo de metadados"}
+  ],
+  "data_processamento": "2025-01-01",
+  "insights_principais": [
+    "Atletismo é historicamente a modalidade com maior número de atletas participantes",
+    "Natação e Luta Livre também figuram entre as modalidades mais populares",
+    "O número de modalidades cresceu consideravelmente do século XX para o XXI"
+  ]
+}

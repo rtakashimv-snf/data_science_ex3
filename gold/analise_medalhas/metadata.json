@@ -1,0 +1,28 @@
+{
+  "nome_dataset": "Análise do Quadro de Medalhas – Paris 2024",
+  "camada": "gold",
+  "descricao": "Quadro oficial de medalhas dos Jogos Olímpicos de Paris 2024, ordenado por ouro, prata e bronze. Inclui visualização gráfica comparativa dos 15 países mais bem colocados.",
+  "fontes_origem": ["bronze/medalhas_1986_2024.csv", "raw/olympics_paris2024.csv"],
+  "arquivos_gerados": [
+    {"arquivo": "medalhas_summary.csv", "descricao": "Tabela com ranking de todos os 92 países participantes"},
+    {"arquivo": "medalhas_plot.png", "descricao": "Gráfico de barras agrupadas – Top 15 países por tipo de medalha"},
+    {"arquivo": "notebook.ipynb", "descricao": "Jupyter Notebook com análise completa e código reproduzível"},
+    {"arquivo": "metadata.json", "descricao": "Este arquivo de metadados"}
+  ],
+  "data_processamento": "2025-01-01",
+  "insights_principais": [
+    "EUA lidera com 40 ouros, seguido pela China também com 40 ouros (EUA vence por prata: 44 vs 27)",
+    "92 países conquistaram ao menos uma medalha em Paris 2024",
+    "Brasil conquistou medalhas em diversas modalidades",
+    "Japão surpreende em 3º lugar com 20 medalhas de ouro"
+  ],
+  "campos_medalhas_summary": [
+    {"campo": "rank", "tipo": "integer", "descricao": "Posição no quadro de medalhas"},
+    {"campo": "country_code", "tipo": "string", "descricao": "Código IOC do país"},
+    {"campo": "country", "tipo": "string", "descricao": "Nome do país"},
+    {"campo": "ouro", "tipo": "integer", "descricao": "Total de medalhas de ouro"},
+    {"campo": "prata", "tipo": "integer", "descricao": "Total de medalhas de prata"},
+    {"campo": "bronze", "tipo": "integer", "descricao": "Total de medalhas de bronze"},
+    {"campo": "total", "tipo": "integer", "descricao": "Total geral de medalhas"}
+  ]
+}

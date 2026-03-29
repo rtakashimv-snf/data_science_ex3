@@ -1,0 +1,99 @@
+gender,discipline,total_medalhas,total_atletas,ouro,prata,bronze,gender_label
+M,3x3 Basketball,3,3,1,1,1,Masculino
+M,Archery,6,6,2,2,2,Masculino
+M,Artistic Gymnastics,25,20,8,8,9,Masculino
+M,Athletics,69,67,23,23,23,Masculino
+M,Badminton,6,6,2,2,2,Masculino
+M,Basketball,3,3,1,1,1,Masculino
+M,Beach Volleyball,3,3,1,1,1,Masculino
+M,Boxing,28,28,7,7,14,Masculino
+M,Breaking,3,3,1,1,1,Masculino
+M,Canoe Slalom,9,9,3,3,3,Masculino
+M,Canoe Sprint,15,15,5,5,5,Masculino
+M,Cycling BMX Freestyle,3,3,1,1,1,Masculino
+M,Cycling BMX Racing,3,3,1,1,1,Masculino
+M,Cycling Mountain Bike,3,3,1,1,1,Masculino
+M,Cycling Road,6,5,2,2,2,Masculino
+M,Cycling Track,18,16,6,6,6,Masculino
+M,Diving,12,12,4,4,4,Masculino
+M,Fencing,18,18,6,6,6,Masculino
+M,Football,3,3,1,1,1,Masculino
+M,Golf,3,3,1,1,1,Masculino
+M,Handball,3,3,1,1,1,Masculino
+M,Hockey,3,3,1,1,1,Masculino
+M,Judo,28,28,7,7,14,Masculino
+M,Marathon Swimming,3,3,1,1,1,Masculino
+M,Modern Pentathlon,3,3,1,1,1,Masculino
+M,Rowing,21,21,7,7,7,Masculino
+M,Rugby Sevens,3,3,1,1,1,Masculino
+M,Sailing,12,12,4,4,4,Masculino
+M,Shooting,18,18,6,6,6,Masculino
+M,Skateboarding,6,6,2,2,2,Masculino
+M,Sport Climbing,6,6,2,2,2,Masculino
+M,Surfing,3,3,1,1,1,Masculino
+M,Swimming,51,42,17,18,16,Masculino
+M,Table Tennis,6,6,2,2,2,Masculino
+M,Taekwondo,16,16,4,4,8,Masculino
+M,Tennis,6,6,2,2,2,Masculino
+M,Trampoline Gymnastics,3,3,1,1,1,Masculino
+M,Triathlon,3,3,1,1,1,Masculino
+M,Volleyball,3,3,1,1,1,Masculino
+M,Water Polo,3,3,1,1,1,Masculino
+M,Weightlifting,15,15,5,5,5,Masculino
+M,Wrestling,48,48,12,12,24,Masculino
+O,Artistic Swimming,3,3,1,1,1,
+O,Equestrian,18,18,6,6,6,
+W,3x3 Basketball,3,3,1,1,1,
+W,Archery,6,6,2,2,2,
+W,Artistic Gymnastics,18,13,6,6,6,
+W,Artistic Swimming,3,3,1,1,1,
+W,Athletics,70,64,23,23,24,
+W,Badminton,6,6,2,2,2,
+W,Basketball,3,3,1,1,1,
+W,Beach Volleyball,3,3,1,1,1,
+W,Boxing,24,24,6,6,12,
+W,Breaking,3,3,1,1,1,
+W,Canoe Slalom,9,7,3,3,3,
+W,Canoe Sprint,16,16,5,5,6,
+W,Cycling BMX Freestyle,3,3,1,1,1,
+W,Cycling BMX Racing,3,3,1,1,1,
+W,Cycling Mountain Bike,3,3,1,1,1,
+W,Cycling Road,6,6,2,2,2,
+W,Cycling Track,18,16,6,6,6,
+W,Diving,12,12,4,4,4,
+W,Fencing,18,18,6,6,6,
+W,Football,3,3,1,1,1,
+W,Golf,3,3,1,1,1,
+W,Handball,3,3,1,1,1,
+W,Hockey,3,3,1,1,1,
+W,Judo,28,28,7,7,14,
+W,Marathon Swimming,3,3,1,1,1,
+W,Modern Pentathlon,3,3,1,1,1,
+W,Rhythmic Gymnastics,6,6,2,2,2,
+W,Rowing,21,21,7,7,7,
+W,Rugby Sevens,3,3,1,1,1,
+W,Sailing,12,12,4,4,4,
+W,Shooting,18,18,6,6,6,
+W,Skateboarding,6,6,2,2,2,
+W,Sport Climbing,6,6,2,2,2,
+W,Surfing,3,3,1,1,1,
+W,Swimming,51,33,17,17,17,
+W,Table Tennis,6,6,2,2,2,
+W,Taekwondo,16,16,4,4,8,
+W,Tennis,6,6,2,2,2,
+W,Trampoline Gymnastics,3,3,1,1,1,
+W,Triathlon,3,3,1,1,1,
+W,Volleyball,3,3,1,1,1,
+W,Water Polo,3,3,1,1,1,
+W,Weightlifting,15,15,5,5,5,
+W,Wrestling,24,24,6,6,12,
+X,Archery,3,3,1,1,1,
+X,Athletics,6,6,2,2,2,
+X,Badminton,3,3,1,1,1,
+X,Judo,4,4,1,1,2,
+X,Sailing,6,6,2,2,2,
+X,Shooting,9,9,3,3,3,
+X,Swimming,3,3,1,1,1,
+X,Table Tennis,3,3,1,1,1,
+X,Tennis,3,3,1,1,1,
+X,Triathlon,3,3,1,1,1,

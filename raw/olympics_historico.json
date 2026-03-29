@@ -1,0 +1,29 @@
+{
+  "nome_dataset": "Olympics Histórico Mundial",
+  "arquivo": "olympics_historico.csv",
+  "fonte": "Olympedia / Kaggle - world_olympedia_olympics_athlete_event_result",
+  "descricao": "Resultados históricos dos Jogos Olímpicos de verão e inverno desde 1896 até 2022, contendo dados por atleta, evento, esporte, país e medalha conquistada.",
+  "campos_principais": [
+    {"campo": "edition", "tipo": "string", "descricao": "Nome da edição dos Jogos (ex: '2020 Summer Olympics')"},
+    {"campo": "edition_id", "tipo": "integer", "descricao": "Identificador único da edição"},
+    {"campo": "country_noc", "tipo": "string", "descricao": "Código NOC do país (3 letras)"},
+    {"campo": "sport", "tipo": "string", "descricao": "Esporte/modalidade"},
+    {"campo": "event", "tipo": "string", "descricao": "Evento específico dentro do esporte"},
+    {"campo": "result_id", "tipo": "integer", "descricao": "Identificador do resultado"},
+    {"campo": "athlete", "tipo": "string", "descricao": "Nome completo do atleta"},
+    {"campo": "athlete_id", "tipo": "integer", "descricao": "Identificador único do atleta"},
+    {"campo": "position", "tipo": "string", "descricao": "Posição final do atleta no evento"},
+    {"campo": "medal", "tipo": "string", "descricao": "Tipo de medalha (Gold, Silver, Bronze) ou nulo"},
+    {"campo": "is_team_sport", "tipo": "boolean", "descricao": "Indica se o evento é esporte coletivo"}
+  ],
+  "data_coleta": "2025-01-01",
+  "periodo_coberto": "1896 - 2022",
+  "total_registros": 316834,
+  "total_colunas": 11,
+  "observacoes": [
+    "Arquivo original em formato .gz (comprimido), extraído para CSV",
+    "A coluna 'medal' contém NaN para atletas sem medalha",
+    "Inclui tanto Jogos de Verão quanto de Inverno",
+    "A coluna 'position' pode conter valores textuais como 'Did not finish'"
+  ]
+}

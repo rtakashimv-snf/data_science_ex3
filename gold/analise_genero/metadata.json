@@ -1,0 +1,16 @@
+{
+  "nome_dataset": "Análise de Medalhas por Gênero – Paris 2024",
+  "camada": "gold",
+  "descricao": "Distribuição de medalhas entre atletas masculinos e femininos por disciplina nos Jogos de Paris 2024, evidenciando a paridade de gênero nas competições.",
+  "fontes_origem": ["bronze/atletas_por_sexo.csv"],
+  "arquivos_gerados": [
+    {"arquivo": "genero_plot.png", "descricao": "Gráfico de barras comparando ouro/prata/bronze por gênero"},
+    {"arquivo": "metadata.json", "descricao": "Este arquivo de metadados"}
+  ],
+  "data_processamento": "2025-01-01",
+  "insights_principais": [
+    "Paris 2024 foi os primeiros Jogos com paridade total de atletas (50% M / 50% F)",
+    "A distribuição de medalhas reflete o equilíbrio de participação por gênero",
+    "Modalidades mistas contribuíram para o aumento da participação feminina"
+  ]
+}

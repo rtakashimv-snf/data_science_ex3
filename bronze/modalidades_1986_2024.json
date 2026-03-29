@@ -1,0 +1,22 @@
+{
+  "nome_dataset": "Modalidades Olímpicas 1896–2022",
+  "arquivo": "modalidades_1986_2024.csv",
+  "camada": "bronze",
+  "fontes_origem": ["raw/olympics_historico.csv"],
+  "descricao": "Agregação por edição e modalidade esportiva com totais de eventos, atletas e medalhas distribuídas.",
+  "campos_principais": [
+    {"campo": "year", "tipo": "integer", "descricao": "Ano da edição"},
+    {"campo": "edition", "tipo": "string", "descricao": "Nome completo da edição"},
+    {"campo": "sport", "tipo": "string", "descricao": "Modalidade esportiva"},
+    {"campo": "total_events", "tipo": "integer", "descricao": "Número de eventos distintos na modalidade"},
+    {"campo": "total_athletes", "tipo": "integer", "descricao": "Número de atletas únicos que participaram"},
+    {"campo": "total_medals", "tipo": "integer", "descricao": "Total de medalhas distribuídas"}
+  ],
+  "data_processamento": "2025-01-01",
+  "total_registros": 1138,
+  "transformacoes": [
+    "Extração do ano da coluna edition",
+    "GroupBy por year, edition e sport",
+    "Contagem de eventos únicos, atletas únicos e medalhas"
+  ]
+}
