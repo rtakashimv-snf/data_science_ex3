@@ -70,9 +70,9 @@ Dados **integrados e normalizados**. As principais operações realizadas foram:
 
 ## Apontamentos
 
-- 🥇 **EUA e China** empataram em ouros (40 cada) em Paris 2024 — EUA ficou em 1º por ter mais pratas (44 vs 27)
-- 🇯🇵 **Japão** surpreendeu em 3º lugar com 20 medalhas de ouro
-- ⚖️ **Paris 2024** foi a primeira edição com **paridade total de atletas** (50% feminino / 50% masculino)
-- 🏃 **Atletismo** é historicamente a modalidade com maior número de atletas participantes
+- **EUA e China** empataram em ouros (40 cada) em Paris 2024 — EUA ficou em 1º por ter mais pratas (44 vs 27)
+- **Japão** surpreendeu em 3º lugar com 20 medalhas de ouro
+- **Paris 2024** foi a primeira edição com **paridade total de atletas** (50% feminino / 50% masculino)
+- **Atletismo** é historicamente a modalidade com maior número de atletas participantes
 
 ---
